@@ -1,5 +1,5 @@
 # Zgadywanie liczby
-# wersja 1.4
+# wersja 1.5
 
 import time
 import sys
